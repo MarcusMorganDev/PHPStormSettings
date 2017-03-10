@@ -1,0 +1,10 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="test" type="PHP" />
+      <mapping pattern="php" type="PHP" />
+      <mapping pattern="test.php" type="PLAIN_TEXT" />
+      <mapping pattern="Utility.class.php" type="YouTrack" />
+    </extensionMap>
+  </component>
+</application>

@@ -1,0 +1,28 @@
+<templateSet group="PHP">
+  <template name="iss" value="isset($END$);" description="isset" toReformat="false" toShortenFQNames="true">
+    <context />
+  </template>
+  <template name="gts" value="&quot;._(&quot;$SELECTION$&quot;).&quot;" description="gettext in a string" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+      <option name="PHP Comment" value="false" />
+      <option name="PHP String Literal" value="false" />
+    </context>
+  </template>
+  <template name="gt" value="_(&quot;$SELECTION$&quot;)" description="gettext" toReformat="false" toShortenFQNames="true">
+    <context />
+  </template>
+  <template name="gtstr" value="_($SELECTION$)" description="get text with a string" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP String Literal" value="true" />
+    </context>
+  </template>
+  <template name="auto" value="require_once(&quot;$END$config.php&quot;);&#10;require_once(&quot;{$private_dir}Classes/Autoload.class.php&quot;);" description="requires for autoload" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+      <option name="PHP Comment" value="false" />
+      <option name="PHP String Literal" value="false" />
+      <option name="PHP Class Member" value="false" />
+    </context>
+  </template>
+</templateSet>

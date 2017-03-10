@@ -1,0 +1,22 @@
+<templateSet group="html/xml">
+  <template name="gte" value="&quot;._(&quot;$SELECTION$&quot;).&quot;" description="get text in echo" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="gth" value="&lt;?=_(&quot;$SELECTION$&quot;)?&gt;" description="get text in html" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="phpE" value="&lt;?=$SELECTION$?&gt;" description="php echo" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="phpT" value="&lt;?$SELECTION$?&gt;" description="Php open close" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+</templateSet>
