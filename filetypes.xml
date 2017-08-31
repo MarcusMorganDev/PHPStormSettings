@@ -3,10 +3,12 @@
     <extensionMap>
       <mapping pattern="php" type="PHP" />
       <mapping pattern="test" type="PHP" />
+      <mapping pattern="installSubversion.yml" type="PLAIN_TEXT" />
       <mapping pattern="wkhtmltopdf" type="PLAIN_TEXT" />
       <mapping pattern="test.php" type="PLAIN_TEXT" />
       <removed_mapping ext="yml" approved="true" type="YAML" />
       <removed_mapping ext="yaml" approved="true" type="YAML" />
+      <mapping pattern="installSubversion" type="YAML_EX" />
       <mapping ext="yml" type="YAML_EX" />
       <mapping ext="yaml" type="YAML_EX" />
       <mapping pattern="Utility.class.php" type="YouTrack" />
