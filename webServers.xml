@@ -1,7 +1,7 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="4a4902fd-37c4-413f-bb96-5b450458a87c" name="devweb" url="http://localhost">
+      <webServer id="4a4902fd-37c4-413f-bb96-5b450458a87c" name="devweb" url="http://mmorgan.flowershopnetwork.com/relay">
         <fileTransfer host="dev01" port="22" rootFolder="/home/www-data/mmorgan" accessType="SFTP" authAgent="true">
           <option name="port" value="22" />
         </fileTransfer>
