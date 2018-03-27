@@ -15,5 +15,16 @@
       </DOCUMENTATION>
       <SOURCES />
     </library>
+    <library name="Rx" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_rxjs@5.4.0_bundles_Rx.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_rxjs@5.4.0_bundles_Rx.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
   </component>
 </application>
