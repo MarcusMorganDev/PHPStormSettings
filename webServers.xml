@@ -6,6 +6,14 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="9cf4b749-9fa4-4113-882b-0dbf93c9b244" name="Dans dev" url="http://dbritton.flowershopnetwork.com/relay">
+        <fileTransfer host="dev01" port="22" rootFolder="/home/www-data/dbritton" accessType="SFTP" authAgent="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
