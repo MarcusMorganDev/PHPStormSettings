@@ -1,10 +1,12 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="test" type="PHP" />
       <mapping pattern="php" type="PHP" />
-      <mapping pattern="installSubversion.yml" type="PLAIN_TEXT" />
+      <mapping pattern="begin-remote-update" type="PHP" />
+      <mapping pattern="remote-update" type="PHP" />
+      <mapping pattern="test" type="PHP" />
       <mapping pattern="test.php" type="PLAIN_TEXT" />
+      <mapping pattern="installSubversion.yml" type="PLAIN_TEXT" />
       <mapping pattern="wkhtmltopdf" type="PLAIN_TEXT" />
       <mapping ext="j2" type="PLAIN_TEXT" />
       <mapping pattern="installSubversion" type="YAML_EX" />
