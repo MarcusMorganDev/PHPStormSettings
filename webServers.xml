@@ -14,6 +14,9 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="1bd62587-c38a-41ba-8518-c26af0cf52a5" name="namecheap" url="http://localhost:8080">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
