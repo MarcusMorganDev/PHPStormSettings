@@ -9,10 +9,11 @@
       <mapping pattern="pre-commit" type="PHP" />
       <mapping pattern="php" type="PHP" />
       <mapping ext="old" type="PHP" />
+      <mapping pattern="installSubversion.yml" type="PLAIN_TEXT" />
       <mapping pattern="ww1_test" type="PLAIN_TEXT" />
       <mapping pattern="wkhtmltopdf" type="PLAIN_TEXT" />
-      <mapping pattern="installSubversion.yml" type="PLAIN_TEXT" />
       <mapping pattern="test.php" type="PLAIN_TEXT" />
+      <mapping ext="pub" type="PLAIN_TEXT" />
       <mapping ext="j2" type="PLAIN_TEXT" />
       <mapping ext="php " type="PLAIN_TEXT" />
       <mapping ext="cnf" type="PLAIN_TEXT" />
