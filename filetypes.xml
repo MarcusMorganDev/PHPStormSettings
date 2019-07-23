@@ -18,6 +18,7 @@
       <mapping ext="j2" type="PLAIN_TEXT" />
       <mapping ext="php " type="PLAIN_TEXT" />
       <mapping ext="cnf" type="PLAIN_TEXT" />
+      <mapping ext="tmp" type="Twig" />
       <mapping pattern="installSubversion" type="YAML_EX" />
     </extensionMap>
   </component>
