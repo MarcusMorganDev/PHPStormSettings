@@ -22,6 +22,10 @@
           <option name="url" value="http://gitlab.flowershopnetwork.com:3443" />
           <option name="userName" value="marcus.morgan" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.flowershopnetwork.com" />
+          <option name="userName" value="marcus.morgan" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/projects" />
