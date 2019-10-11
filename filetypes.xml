@@ -14,6 +14,7 @@
       <mapping pattern="mmorgan_authorized_keys" type="PLAIN_TEXT" />
       <mapping pattern="wkhtmltopdf" type="PLAIN_TEXT" />
       <mapping pattern="test.php" type="PLAIN_TEXT" />
+      <mapping pattern="hosts" type="PLAIN_TEXT" />
       <mapping ext="pub" type="PLAIN_TEXT" />
       <mapping ext="j2" type="PLAIN_TEXT" />
       <mapping ext="php " type="PLAIN_TEXT" />
