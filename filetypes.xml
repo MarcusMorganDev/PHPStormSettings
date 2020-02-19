@@ -1,7 +1,6 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping ext="tmpl" type="Bash" />
       <mapping pattern="remote-update" type="PHP" />
       <mapping pattern="test" type="PHP" />
       <mapping pattern="post-commit" type="PHP" />
@@ -21,6 +20,7 @@
       <mapping ext="php " type="PLAIN_TEXT" />
       <mapping ext="tmp" type="Twig" />
       <mapping pattern="installSubversion" type="YAML_EX" />
+      <mapping ext="tmpl" type="Bash" />
     </extensionMap>
   </component>
 </application>
