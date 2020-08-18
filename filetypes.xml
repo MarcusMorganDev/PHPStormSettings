@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="service" type="Ini" />
       <mapping pattern="remote-update" type="PHP" />
       <mapping pattern="test" type="PHP" />
       <mapping pattern="post-commit" type="PHP" />
